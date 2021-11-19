@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @andygarciaserra
+- 👀 I’m interested in Astrophysics and data treatment
+- 🌱 I’m currently studying a masters degree in ULL
+- 💞️ I’m looking to collaborate on IAC on UDG detection using gnuastro tools
+- 📫 How to reach me: alu0101451923@ull.edu.es
