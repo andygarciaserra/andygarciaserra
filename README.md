@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Andy.
 - 👀 Interested in Astrophysics and data analysis.
 - 🌱 Currently studying the Astrophysics Masters degree at ULL.
-- 🌌 Collaborating at the IAC on LSBG detection using gnuastro tools.
 - 📫 How to reach me: alu0101451923@ull.edu.es
