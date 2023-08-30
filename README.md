@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Andy.
-- 👀 Physicist and with a Masters defree in computational Astrophysics.
+- 👀 Physicist and with a Master degree in computational Astrophysics.
 - 📫 Reach me at: astroandygsr@gmail.com
