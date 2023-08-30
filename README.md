@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Andy.
-- 👀 Interested in Astrophysics and data analysis.
-- 🌱 Currently studying the Astrophysics Masters degree at ULL.
-- 📫 Reach me at: alu0101451923@ull.edu.es
+- 👀 Physicist and with a Masters defree in computational Astrophysics.
+- 📫 Reach me at: astroandygsr@gmail.com
