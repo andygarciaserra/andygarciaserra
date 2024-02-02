@@ -1,4 +1,4 @@
-[![Masterhead](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/07/cosmic_cliffs_in_carina_nircam/24353058-1-eng-GB/Cosmic_Cliffs_in_Carina_NIRCam_pillars.png)
+![Masterhead]([https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/07/cosmic_cliffs_in_carina_nircam/24353058-1-eng-GB/Cosmic_Cliffs_in_Carina_NIRCam_pillars.png](https://media.licdn.com/dms/image/D4E16AQFpxy4bgIWu6g/profile-displaybackgroundimage-shrink_350_1400/0/1700497349005?e=1712188800&v=beta&t=OURk7HILrxc-nuWR_yb4Ygmm13TqoGC4peNptfFvZfw))
 
 <h1 align="center">Hi 👋, I'm Andy</h1>
 <h3 align="center">Physicist with a MSc in Computational Astrophysics.</h3>
