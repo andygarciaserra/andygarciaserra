@@ -1,9 +1,7 @@
+[![Masterhead](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/07/cosmic_cliffs_in_carina_nircam/24353058-1-eng-GB/Cosmic_Cliffs_in_Carina_NIRCam_pillars.png)
+
 <h1 align="center">Hi 👋, I'm Andy</h1>
 <h3 align="center">Physicist with a MSc in Computational Astrophysics.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andygarciaserra&label=Profile%20views&color=0e75b6&style=flat" alt="andygarciaserra" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andygarciaserra" alt="andygarciaserra" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science, Deep Learning and Data analysis**
 
