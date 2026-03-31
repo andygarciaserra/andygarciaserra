@@ -1,8 +1,7 @@
-<img src="https://media.licdn.com/dms/image/D4E16AQFpxy4bgIWu6g/profile-displaybackgroundimage-shrink_350_1400/0/1700497349005?e=1712188800&v=beta&t=OURk7HILrxc-nuWR_yb4Ygmm13TqoGC4peNptfFvZfw" alt="MasterHead" style="clip-path: inset(80% 0% 80% 0%)"/>
 <h1 align="center">Hi 👋, I'm Andy</h1>
 <h3 align="center">Physicist with a MSc in Computational Astrophysics.</h3>
 
-- 🌱 I’m currently learning **Data Science, Deep Learning and Data analysis**
+- 🌱 I’m currently studying a  **Master Degree in AI Research**
 
 - 📫 You can reach me at: **astroandygsr@gmail.com**
 
