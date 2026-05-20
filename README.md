@@ -8,19 +8,23 @@
 Astrophysics • Machine Learning • Scientific Computing
 </h3>
 
----
+<br>
 
-### Currently working on
+<h3 align="center">Current work</h3>
 
+<p align="center">
 Creating synthetic spectral datasets for telluric correction using PHOENIX and Molecfit.
+</p>
 
----
+<br>
 
-- 🌱 Currently studying a **Master Degree in AI Research**
+<h3 align="center">Contact</h3>
 
-- 📫 Contact: **astroandygsr@gmail.com**
+<p align="center">
+<b>astroandygsr@gmail.com</b>
+</p>
 
----
+<br>
 
 <h3 align="center">Connect with me</h3>
 
