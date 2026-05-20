@@ -12,9 +12,7 @@ Astrophysics • Machine Learning • Scientific Computing
 
 ### Currently working on
 
-- Exoplanet spectroscopy
-- Synthetic spectral datasets
-- Telluric modelling with Molecfit
+Creating synthetic spectral datasets for telluric correction using PHOENIX and Molecfit.
 
 ---
 
