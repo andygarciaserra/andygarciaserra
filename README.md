@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Andy</h1>
 
 <h3 align="center">
-Astrophysics • Machine Learning • Scientific Computing
+Astrophysics • Exoplanets • Machine Learning
 </h3>
 
 <br>
