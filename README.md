@@ -13,7 +13,7 @@ Astrophysics • Machine Learning • Scientific Computing
 <h3 align="center">Current work</h3>
 
 <p align="center">
-Creating synthetic spectral datasets for telluric correction using PHOENIX and Molecfit.
+Creating synthetic spectral datasets for telluric correction using Telfit and PHOENIX.
 </p>
 
 <br>
